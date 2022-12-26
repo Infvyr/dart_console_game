@@ -4,8 +4,6 @@ Build a command line tool that plays Rock, Paper, Scissors.
 
 When started, the program should show this prompt:
 
-    $ rock_paper_scissors
-
     Choose one: (r)ock, (p)aper, (s)cissors
     >
 

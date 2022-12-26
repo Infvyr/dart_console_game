@@ -1,5 +1,7 @@
-import "../lib/game.dart";
+import '../lib/game.dart';
 
 void main() {
+  var game = Game();
 
+  game.printGame();
 }
